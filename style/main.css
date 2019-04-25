@@ -339,13 +339,13 @@ hr {
     color: rgb(0,0,0,0);
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
   .tile.tile-8 .tile-inner {
-    background: url("")
+    background: url("https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2019/02/18/realtime/5940956.jpg&x=0&y=0&sw=0&sh=0&sl=W&fw=1050&exp=3600")
     background-size: cover;
     color: rgb(0,0,0,0);
     color: #f9f6f2;
     background: #f2b179; }
   .tile.tile-16 .tile-inner {
-    background: url("");
+    background: url("https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2019/02/18/realtime/5940956.jpg&x=0&y=0&sw=0&sh=0&sl=W&fw=1050&exp=3600");
     background-size: cover;
     color: rgb(0,0,0,0);
     color: #f9f6f2;
